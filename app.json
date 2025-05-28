@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "StickerSmash",
-    "slug": "StickerSmash",
+    "name": "WayGo",
+    "slug": "WayGo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "stickersmash",
+    "scheme": "WayGo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
